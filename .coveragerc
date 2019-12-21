@@ -1,5 +1,5 @@
 [run]
-source = testPro
+source = repoName
 
 [report]
 exclude_lines =
